@@ -1,2 +1,11 @@
-# go-docker-app
-This repository contains a simple Go web application that runs inside a Docker container. It demonstrates how to build, containerize, and run a Go application using a multi-stage Dockerfile to produce a lightweight and efficient Docker image.
+# 🐳 Go Docker App
+
+A simple **Go web application** containerized with **Docker**.
+
+---
+
+## 🚀 How to Run Locally
+
+1. Pull the image from Docker Hub:
+   ```bash
+   docker pull melyazedy/go-docker-app:latest
